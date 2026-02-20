@@ -8,7 +8,7 @@ Built with the MERN stack and designed with production-ready UI/UX principles.
 
 ## Live Demo
 
-* 🌐 **Live Website:** smart-bookmark-manager-lovat.vercel.app
+* 🌐 **Live Website:** https://smart-bookmark-manager-lovat.vercel.app
 * 🔗 **Backend API:** https://smart-bookmark-manager-1qy8.onrender.com
 * 📂 **GitHub Repository:** https://github.com/Purva152004/smart-bookmark-manager
 
